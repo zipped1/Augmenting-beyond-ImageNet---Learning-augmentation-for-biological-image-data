@@ -1,1 +1,1 @@
-# Augmenting-beyond-ImageNet---Learning-augmentation-for-biological-image-data
+# Augmenting beyond ImageNet - Learning augmentation for biological image-data
